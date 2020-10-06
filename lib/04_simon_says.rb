@@ -41,7 +41,7 @@ code terniaire
 #condition ? exprSiVrai : exprSiFaux 
  si mots parcuru est dans mots_downcase true et si ce n'est pas le premiere mot (i>0)
  ajouter le mot 
- sinon ajouter avec un makiscule
+ sinon ajouter avec un majuscule
  join pour transformer en string
 
 =end
